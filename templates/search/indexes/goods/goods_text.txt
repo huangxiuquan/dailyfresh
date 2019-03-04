@@ -1,0 +1,5 @@
+{{ object.name }}
+{{ object.default_image }}
+{{ object.price }}
+{{ object.unit }}
+{{ object.id }}
